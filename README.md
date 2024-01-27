@@ -7,7 +7,7 @@
 
 - looking to collaborate on [helmdall](https://helmdall.com/)
 
-- looking for backend assistance on **fitnation**
+- looking for backend assistance on [fitnation](https://github.com/AnshumanKrishna7/fitnation)
 
 - my public projects are available at [https://github.com/AnshumanKrishna7](https://github.com/AnshumanKrishna7)
 
