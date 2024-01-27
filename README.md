@@ -12,8 +12,7 @@
 - my public projects are available at [https://github.com/AnshumanKrishna7](https://github.com/AnshumanKrishna7)
 
 - 📫 LinkedIN **https://www.linkedin.com/in/anshuman-krishna-yadav-247x**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
