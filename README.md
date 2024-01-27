@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anshuman</h1>
+<h1 align="center">Hie 🙏🏻, I'm Anshuman</h1>
 <h3 align="center">a front-end developer, looking forward to be a full-stack dev. mern, mostly, nuxt3, go and rust in the upcoming.</h3>
 
 - currently working on [samklaang](https://github.com/contra-kvh/samklaang_app.git)
