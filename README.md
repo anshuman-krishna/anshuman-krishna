@@ -9,7 +9,7 @@
 
 - looking for backend assistance on [fitnation](https://github.com/AnshumanKrishna7/fitnation)
 
-- my public projects are available at [https://github.com/AnshumanKrishna7](https://github.com/AnshumanKrishna7)
+- my public and unarchived projects are available at [https://github.com/AnshumanKrishna7](https://github.com/anshuman-krishna)
 
 - 📫 LinkedIN **https://www.linkedin.com/in/anshuman-krishna**
 
