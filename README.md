@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌🏻, I'm Anshuman</h1>
-<h3 align="center">A dedicated front-end developer with aspirations to become a full-stack professional, currently focused on MERN and Nuxt3. Exploring life through keystrokes, words, and pixels.</h3>
+<h3 align="center">A dedicated front-end developer with aspirations to become a full-stack professional, currently focused on MERN, GoLang and Nuxt3. Exploring life through keystrokes, words, and pixels.</h3>
 
 - Passionate about **cybersecurity** and **blockchain**, areas I've recently begun exploring and plan to expand my knowledge in to become proficient in the near future.
 
