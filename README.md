@@ -1,16 +1,8 @@
 <h1 align="center">Hi ✌🏻, I'm Anshuman</h1>
-<h3 align="center">a front-end developer, looking forward to be a full-stack dev. mern, mostly, nuxt3, go and rust in the upcoming.</h3>
+<h3 align="center">A dedicated front-end developer with aspirations to become a full-stack professional, currently focused on MERN and Nuxt3. Exploring life through keystrokes, words, and pixels.</h3>
 
-- currently working on [samklaang](https://github.com/contra-kvh/samklaang_app.git)
+- Passionate about **cybersecurity** and **blockchain**, areas I've recently begun exploring and plan to expand my knowledge in to become proficient in the near future.
 
-- currently learning **MERN**
+- My projects are largely archived due to being the intellectual property of organizations I’ve worked with or are tied to my internships. However, I’m happy to showcase some of my allowed work. Feel free to schedule a time on [Calendly](https://calendly.com/d/cpk7-8sz-cc6/30-minute-meeting) to discuss them.
 
-- looking to collaborate on [helmdall](https://helmdall.com/)
-
-- looking for backend assistance on [fitnation](https://github.com/AnshumanKrishna7/fitnation)
-
-- my public and unarchived projects are available at [https://github.com/AnshumanKrishna7](https://github.com/anshuman-krishna)
-
-- 📫 LinkedIN **https://www.linkedin.com/in/anshuman-krishna**
-
-
+- 📫 LinkedIn: [https://www.linkedin.com/in/anshuman-krishna](https://www.linkedin.com/in/anshuman-krishna)
