@@ -1,2 +1,9 @@
-<h2 align="center">hey, I'm Ansh.</h1>
-a software developer and engineer who is currently building SaaS for freelance gigs nd projects that fill a gap in my work environment. On the tech side I'm currently learning GoLang and Rust, especially because I have a perpetual interest in CyberSec as well. please feel free to connect with me on LinkedIn: [https://www.linkedin.com/in/anshuman-krishna](https://www.linkedin.com/in/anshuman-krishna) thanks. 
+**## hey, I'm Ansh. **
+
+a software developer and engineer who is currently building saas for freelance gigs and projects that fill a gap in my work environment.
+
+on the tech side i'm currently learning golang and rust, especially because i have a perpetual interest in cybersec as well.
+
+please feel free to connect with me on linkedin: [https://www.linkedin.com/in/anshuman-krishna](https://www.linkedin.com/in/anshuman-krishna) 
+
+thanks.
