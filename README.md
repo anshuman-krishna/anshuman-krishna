@@ -1,4 +1,4 @@
-**## hey, I'm Ansh. **
+hey, I'm Ansh.
 
 a software developer and engineer who is currently building saas for freelance gigs and projects that fill a gap in my work environment.
 
