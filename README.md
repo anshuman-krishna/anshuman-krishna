@@ -6,8 +6,8 @@ currently learning go and rust. partly for the languages themselves, partly beca
 
 **working on**
 
-- balise, an evidence system for environmental compliance in french public procurement
-- master of none, a pixel art narrative game i'm building solo in godot
+- balise: an evidence system for environmental compliance in french public procurement
+- master-of-none: a pixel art narrative game i'm building solo in godot
 - a few typescript projects that aren't finished enough to describe yet
 
 **usually reach for** typescript, python, go, rust, gdscript
